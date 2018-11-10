@@ -18,7 +18,7 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
 - [VAT ID Validator](https://github.com/liagkos/laravel-grvatid-validator)
 
 ### Symfony
-- [Greek Validators](https://github.com/thanosKontos/greek-validators-symfony
+- [Greek Validators](https://github.com/thanosKontos/greek-validators-symfony)
 
 ### Payment Gateways
 - [Viva wallet](https://github.com/VivaPayments/API)
