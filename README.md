@@ -16,5 +16,8 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
 ### Symfony
 - [Greek Validators](https://github.com/thanosKontos/greek-validators-symfony)
 
+### Payment Gateways
+- [Viva wallet](https://github.com/VivaPayments/API)
+
 ### Translations
 - [Vtiger](https://github.com/cerebrux/vtiger6-greek-translation)
