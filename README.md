@@ -13,6 +13,7 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
 
 ### Communities
 - [Laravel](https://github.com/laravelgr/laravelgr) - https://www.laravel.gr
+- [Wordpress](https://github.com/wpgreece)
 
 ### Laravel
 - [VAT ID Validator](https://github.com/liagkos/laravel-grvatid-validator)
