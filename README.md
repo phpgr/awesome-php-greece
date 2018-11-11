@@ -9,6 +9,7 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
     - [Communities](#communities)
     - [Laravel](#laravel)
     - [Sumfony](#symfony)
+    - [Payment Gateways](#payment-gateways)
     - [Translations Related](#translations)
 
 ### Communities
@@ -23,6 +24,7 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
 
 ### Payment Gateways
 - [Viva wallet](https://github.com/VivaPayments/API)
+- [EveryPay](https://github.com/everypay)
 
 ### Translations
 - [Vtiger](https://github.com/cerebrux/vtiger6-greek-translation)
