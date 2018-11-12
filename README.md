@@ -8,7 +8,7 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
 - [Awesome PHP](#awesome-php)
     - [Communities](#communities)
     - [Laravel](#laravel)
-    - [Sumfony](#symfony)
+    - [Symfony](#symfony)
     - [Payment Gateways](#payment-gateways)
     - [Translations Related](#translations)
 
