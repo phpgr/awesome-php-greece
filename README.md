@@ -7,6 +7,7 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
     - [Communities](#communities)
+    - [Libraries](#Libraries)
     - [Laravel](#laravel)
     - [Symfony](#symfony)
     - [Payment Gateways](#payment-gateways)
@@ -16,6 +17,9 @@ A curated list of amazingly awesome PHP libraries that are related to Greece.
 - [Drupal](https://mydrupal.gr/)
 - [Laravel](https://github.com/laravelgr/laravelgr) - https://www.laravel.gr
 - [Wordpress](https://github.com/wpgreece)
+
+### Libraries
+- [olographos](https://github.com/thgs/olographos)
 
 ### Laravel
 - [VAT ID Validator](https://github.com/liagkos/laravel-grvatid-validator)
